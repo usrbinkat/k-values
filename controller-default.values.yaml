@@ -1,4 +1,3 @@
-USER-SUPPLIED VALUES:
 deployment:
   kong:
     enabled: false

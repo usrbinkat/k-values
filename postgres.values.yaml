@@ -1,4 +1,3 @@
-USER-SUPPLIED VALUES:
 global:
   postgresql:
     auth:

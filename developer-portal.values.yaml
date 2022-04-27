@@ -18,7 +18,7 @@ deployment:
     enabled: true
 enterprise:
   enabled: true
-  license_secret: kong-enterprise-license-layfji91
+  license_secret: kong-enterprise-license-qw3lgh45
   portal:
     enabled: true
   rbac:

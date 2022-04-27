@@ -1,4 +1,3 @@
-USER-SUPPLIED VALUES:
 admin:
   annotations:
     konghq.com/protocol: https
@@ -47,7 +46,7 @@ deployment:
     enabled: true
 enterprise:
   enabled: true
-  license_secret: kong-enterprise-license-layfji91
+  license_secret: kong-enterprise-license-qw3lgh45
   portal:
     enabled: false
   rbac:
